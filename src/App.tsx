@@ -1,3 +1,5 @@
+// react + typescript tutorial: https://www.youtube.com/watch?v=SqcY0GlETPk
+
 // import ListGroup from "./components/ListGroup";
 import { useState } from "react";
 import Alert from "./components/Alert";
